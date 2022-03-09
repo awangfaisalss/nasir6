@@ -47,6 +47,53 @@ http://wowza60.indostreamserver.com:1935/pktv/live
 #EXTINF:-1 tvg-logo="" group-title="TV DAERAH",SAMPIT TV
 http://bravo.kugo.id:1935/sampittv/rtmp.stream_360p/chunklist_w789440921.m3u8
 
+#EXTINF:-1 tvg-id="c6b64d5701760b1ef3fc9bbb33b49898" tvg-chno="20",eLKISi TV
+
+http://192.168.10.2:9981/stream/channelid/1464710854?profile=pass
+
+#EXTINF:-1 tvg-id="431ceb719d240cf08a3ca0afb7d891b3" tvg-chno="20",FTV
+
+http://192.168.10.2:9981/stream/channelid/1911233603?profile=pass
+
+#EXTINF:-1 tvg-id="d99e7f832c262cb73aea0162fb616c4b" tvg-chno="20",GARDA TV
+
+http://192.168.10.2:9981/stream/channelid/58695385?profile=pass
+#EXTINF:-1 tvg-id="3f04543c704df1505a8826106111647e" tvg-chno="20",INSPIRA TV
+
+http://192.168.10.2:9981/stream/channelid/1012139071?profile=pass
+
+#EXTINF:-1 tvg-id="a6f31d49d470cfeda34214b67de47b3b" tvg-chno="20",Madani TV
+
+http://192.168.10.2:9981/stream/channelid/1226699686?profile=pass
+
+#EXTINF:-1 tvg-id="b916595e4d027851b26c1a7c733329d3" tvg-chno="20",Madu TV
+
+http://192.168.10.2:9981/stream/channelid/1582896825?profile=pass
+
+#EXTINF:-1 tvg-id="4256097502fdda79cb5ce5b1dff0d83c" tvg-chno="20",Mantap TIVI
+
+http://192.168.10.2:9981/stream/channelid/1963546178?profile=pass
+
+#EXTINF:-1 tvg-id="6a110186300211a26e0438a5e4383f35" tvg-chno="20",Metro Globe Network
+
+http://192.168.10.2:9981/stream/channelid/100733290?profile=pass
+
+#EXTINF:-1 tvg-id="1ba50ead00a5a4bbec3f9e23eb8d7d38" tvg-chno="20",SAMPIT TV
+
+http://192.168.10.2:9981/stream/channelid/755934491?profile=pass
+
+#EXTINF:-1 tvg-id="e2715190157e85311f8d1c92eed76d08" tvg-chno="20",Sinema Indonesia
+
+http://192.168.10.2:9981/stream/channelid/273773026?profile=pass
+
+#EXTINF:-1 tvg-id="7cd642bfaafeaadb606354cb3028de41" tvg-chno="20",Sinema Indonesia X
+
+http://192.168.10.2:9981/stream/channelid/1061344892?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR9Bk5rD/SAMARINDA.png" group-title="TV DAERAH",SAMARINDA TV
+#http://122.248.43.138:1935/ch19/myStream/chunklist_w333328907.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZJxJjh/SIMPANG-5-TV.png" group-title="TV DAERAH",SIMPANG 5 TV
 http://122.248.43.138:1935/ch4/myStream/chunklist_w1341916192.m3u8
 
