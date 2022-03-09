@@ -24,31 +24,31 @@ https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 https://iptv.mwafa.net/vidio/7946/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brXVYQB9/BATAM-TV.png" group-title="TV DAERAH",BATAM TV
-#http://122.248.43.138:1935/ch5/myStream/chunklist_w1975645815.m3u8
+http://122.248.43.138:1935/ch5/myStream/chunklist_w1975645815.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2mbXwTm/BETV.png" group-title="TV DAERAH",BeTV
-#http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/chunklist_w1794621549.m3u8
+http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/chunklist_w1794621549.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJBWVBVD/CITRA-TV.png" group-title="TV DAERAH",Citra TV
-#http://122.248.43.138:1935/ch28/myStream/live.m3u8
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQsDnNN/DUTA-TV.png" group-title="TV DAERAH",DUTA TV
-#http://thepwfamily.com/stream/dutatv.m3u8
+http://thepwfamily.com/stream/dutatv.m3u8
 https://v2.siar.us/dutatv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rSJNNsg/FAJAR-TV.png" group-title="TV DAERAH",Fajar tv
-#http://122.248.43.138:1935/ch27/myStream/live.m3u8
+http://122.248.43.138:1935/ch27/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4Fn60K1/gemilang.png" group-title="TV DAERAH",Gemilang TV
-#https://5d63d49f772ce.streamlock.net/gemilangtv/rtmp.stream_360p/playlist.m3u8
+https://5d63d49f772ce.streamlock.net/gemilangtv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrsTJH9G/PKTV-BONTANG.png" group-title="TV DAERAH",PKTV Bontang
-rtmp://wowza60.indostreamserver.com:1935/pktv/live
+http://wowza60.indostreamserver.com:1935/pktv/live
 
 #EXTINF:-1 tvg-logo="" group-title="TV DAERAH",SAMPIT TV
 http://bravo.kugo.id:1935/sampittv/rtmp.stream_360p/chunklist_w789440921.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZJxJjh/SIMPANG-5-TV.png" group-title="TV DAERAH",SIMPANG 5 TV
-#http://122.248.43.138:1935/ch4/myStream/chunklist_w1341916192.m3u8
+http://122.248.43.138:1935/ch4/myStream/chunklist_w1341916192.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png" group-title="TV DAERAH",TVTPI
-#http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
+http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
