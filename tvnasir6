@@ -1,445 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1,BEIN SPORTS HD1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZJxJjh/SIMPANG-5-TV.png" group-title="LM/LOKAL",SIMPANG 5 TV
+http://122.248.43.138:1935/ch4/myStream/chunklist_w1341916192.m3u8
 
-http://stream.shabakaty.com:6001/sport/ch1/ch1_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQsDnNN/DUTA-TV.png" group-title="LM/LOKAL",DUTA TV
+http://thepwfamily.com/stream/dutatv.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="TV NASIONAL",SCTV
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1,BEIN SPORTS HD2
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="TV NASIONAL",Indosiar
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
-http://stream.shabakaty.com:6001/sport/ch2/ch2_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQsDnNN/DUTA-TV.png" group-title="LM/LOKAL",Sampit TV
+http://bravo.kugo.id:1935/sampittv/rtmp.stream_360p/chunklist_w789440921.m3u8
 
-#EXTINF:-1,BEIN SPORTS HD3
+#EXTINF:-1 tvg-id="indosiar" tvg-logo="https://i.postimg.cc/N0SkBqnR/indosiar.png" group-title="INDONESIA",INDOSIAR
+http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
 
-http://stream.shabakaty.com:6001/sport/ch3/ch3_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4mhNGp8/mytv.png" group-title="INDONESIA",myTV HD
+https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 
-#EXTINF:-1,BEIN SPORTS HD4
+#EXTINF:-1 tvg-logo="" group-title="LOKAL",TV TEMPO
+https://iptv.mwafa.net/vidio/7946/index.m3u8?token=1999
 
-http://stream.shabakaty.com:6001/sport/ch4/ch4_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brXVYQB9/BATAM-TV.png" group-title="TV DAERAH",BATAM TV
+#http://122.248.43.138:1935/ch5/myStream/chunklist_w1975645815.m3u8
 
-#EXTINF:-1,BEIN SPORTS HD5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2mbXwTm/BETV.png" group-title="TV DAERAH",BeTV
+#http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/chunklist_w1794621549.m3u8
 
-http://stream.shabakaty.com:6001/sport/ch5/ch5_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJBWVBVD/CITRA-TV.png" group-title="TV DAERAH",Citra TV
+#http://122.248.43.138:1935/ch28/myStream/live.m3u8
 
-#EXTINF:-1,BEIN SPORTS HD6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQsDnNN/DUTA-TV.png" group-title="TV DAERAH",DUTA TV
+#http://thepwfamily.com/stream/dutatv.m3u8
+https://v2.siar.us/dutatv/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rSJNNsg/FAJAR-TV.png" group-title="TV DAERAH",Fajar tv
+#http://122.248.43.138:1935/ch27/myStream/live.m3u8
 
-http://stream.shabakaty.com:6001/sport/ch6/ch6_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4Fn60K1/gemilang.png" group-title="TV DAERAH",Gemilang TV
+#https://5d63d49f772ce.streamlock.net/gemilangtv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORTS HD7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrsTJH9G/PKTV-BONTANG.png" group-title="TV DAERAH",PKTV Bontang
+rtmp://wowza60.indostreamserver.com:1935/pktv/live
 
-http://stream.shabakaty.com:6001/sport/ch7/ch7_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV DAERAH",SAMPIT TV
+http://bravo.kugo.id:1935/sampittv/rtmp.stream_360p/chunklist_w789440921.m3u8
 
-#EXTINF:-1,BEIN SPORTS HD8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZJxJjh/SIMPANG-5-TV.png" group-title="TV DAERAH",SIMPANG 5 TV
+#http://122.248.43.138:1935/ch4/myStream/chunklist_w1341916192.m3u8
 
-http://stream.shabakaty.com:6001/sport/ch8/ch8_720.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD9
-
-http://stream.shabakaty.com:6001/sport/ch9/ch9_720.m3u8
-
-#EXTINF:-1,BEIN SPORTS HD10
-
-http://stream.shabakaty.com:6001/sport/ch10/ch10_720.m3u8
-
-#EXTINF:-1,BEIN SPORTS NBA
-
-http://stream.shabakaty.com:6001/sport/ch11/ch11_720.m3u8
-
-#EXTINF:-1,Iraqi sports
-
-http://stream.shabakaty.com:6001/sport/ch12/ch12_720.m3u8
-
-#EXTINF:-1,Alkass HD1
-
-http://stream.shabakaty.com:6001/sport/ch13/ch13_720.m3u8
-
-#EXTINF:-1,Alkass HD2
-
-http://stream.shabakaty.com:6001/sport/ch14/ch14_720.m3u8
-
-#EXTINF:-1,Alkass HD3
-
-http://stream.shabakaty.com:6001/sport/ch15/ch15_720.m3u8
-
-#EXTINF:-1,Alkass HD4
-
-http://stream.shabakaty.com:6001/sport/ch16/ch16_720.m3u8
-
-#EXTINF:-1,Alkass HD5
-
-http://stream.shabakaty.com:6001/sport/ch17/ch17_720.m3u8
-
-#EXTINF:-1,BEIN MOVIES HD1
-
-http://stream.shabakaty.com:6001/movies/ch1/ch1_720.m3u8
-
-#EXTINF:-1,BEIN MOVIES HD2
-
-http://stream.shabakaty.com:6001/movies/ch2/ch2_720.m3u8
-
-#EXTINF:-1,BEIN MOVIES HD3
-
-http://stream.shabakaty.com:6001/movies/ch3/ch3_720.m3u8
-
-#EXTINF:-1,BEIN MOVIES HD4
-
-http://stream.shabakaty.com:6001/movies/ch4/ch4_720.m3u8
-
-#EXTINF:-1,FOX MOVIES
-
-http://stream.shabakaty.com:6001/movies/ch5/ch5_720.m3u8
-
-#EXTINF:-1,FOX ACTION MOVIES
-
-http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
-
-#EXTINF:-1,FOX FAMILY
-
-http://stream.shabakaty.com:6001/movies/ch7/ch7_720.m3u8
-
-#EXTINF:-1,TCM HD
-
-http://stream.shabakaty.com:6001/movies/ch8/ch8_720.m3u8
-
-#EXTINF:-1,FOX HD
-
-http://stream.shabakaty.com:6001/movies/ch9/ch9_720.m3u8
-
-#EXTINF:-1,STAR WORLD HD
-
-http://stream.shabakaty.com:6001/movies/ch10/ch10_720.m3u8
-
-#EXTINF:-1,MOVIES HD
-
-http://stream.shabakaty.com:6001/movies/ch11/ch11_720.m3u8
-
-#EXTINF:-1,FOXCRIME HD
-
-http://stream.shabakaty.com:6001/movies/ch12/ch12_720.m3u8
-
-#EXTINF:-1,OSN MOVIES STAY SAFE
-
-http://stream.shabakaty.com:6001/movies/ch13/ch13_720.m3u8
-
-#EXTINF:-1,OSN ACTION STAY SAFE
-
-http://stream.shabakaty.com:6001/movies/ch14/ch14_720.m3u8
-
-#EXTINF:-1,OSN Movies First
-
-http://stream.shabakaty.com:6001/movies/ch15/ch15_720.m3u8
-
-#EXTINF:-1,Cinema 1 Arabic
-
-http://stream.shabakaty.com:6001/movies/ch16/ch16_720.m3u8
-
-#EXTINF:-1,Cinema 2 Arabic
-
-http://stream.shabakaty.com:6001/movies/ch17/ch17_720.m3u8
-
-#EXTINF:-1,osn ya hala
-
-http://stream.shabakaty.com:6001/movies/ch18/ch18_720.m3u8
-
-#EXTINF:-1,OSN Movies Comedy
-
-http://stream.shabakaty.com:6001/movies/ch19/ch19_720.m3u8
-
-#EXTINF:-1,2CINEMA
-
-http://stream.shabakaty.com:6001/movies/ch20/ch20_720.m3u8
-
-#EXTINF:-1,ART CINMA
-
-http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
-
-#EXTINF:-1,ART Aflam 1
-
-http://stream.shabakaty.com:6001/movies/ch22/ch22_720.m3u8
-
-#EXTINF:-1,ART Aflam 2
-
-http://stream.shabakaty.com:6001/movies/ch23/ch23_720.m3u8
-
-#EXTINF:-1,OSN ENIGMA
-
-http://stream.shabakaty.com:6001/movies/ch24/ch24_720.m3u8
-
-#EXTINF:-1,ON ARABIC HD
-
-http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
-
-#EXTINF:-1,ON BOX OFFICE HD
-
-http://stream.shabakaty.com:6001/movies/ch26/ch26_720.m3u8
-
-#EXTINF:-1,ON BOLLYWOOD HD
-
-http://stream.shabakaty.com:6001/movies/ch27/ch27_720.m3u8
-
-#EXTINF:-1,ON COMEDY HD
-
-http://stream.shabakaty.com:6001/movies/ch28/ch28_720.m3u8
-
-#EXTINF:-1,BeinSeries HD
-
-http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
-
-#EXTINF:-1,BeinSeries HD2 
-
-http://stream.shabakaty.com:6001/series/ch2/ch2_720.m3u8
-
-#EXTINF:-1,BEIN drama HD1
-
-http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
-
-#EXTINF:-1,FX HD
-
-http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
-
-#EXTINF:-1,FOX Novels
-
-http://stream.shabakaty.com:6001/series/ch5/ch5_720.m3u8
-
-#EXTINF:-1,SS
-
-http://stream.shabakaty.com:6001/series/ch6/ch6_720.m3u8
-
-#EXTINF:-1,ON TURKEY HD1
-
-http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
-
-#EXTINF:-1,Alpha series HD1
-
-http://stream.shabakaty.com:6001/series/ch12/ch12_720.m3u8
-
-#EXTINF:-1,Alpha series HD2
-
-http://stream.shabakaty.com:6001/series/ch13/ch13_720.m3u8
-
-#EXTINF:-1,CBC REALITY
-
-http://stream.shabakaty.com:6001/enter/ch1/ch1_720.m3u8
-
-#EXTINF:-1,DLIFE
-
-http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
-
-#EXTINF:-1,DTX
-
-http://stream.shabakaty.com:6001/enter/ch3/ch3_720.m3u8
-
-#EXTINF:-1,National Geographic
-
-http://stream.shabakaty.com:6001/enter/ch4/ch4_720.m3u8
-
-#EXTINF:-1,Wild Geography of Nantes
-
-http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
-
-#EXTINF:-1,Animal planet
-
-http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
-
-#EXTINF:-1,BEIN gorment
-
-http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8
-
-#EXTINF:-1,Fatafeat HD
-
-http://stream.shabakaty.com:6001/enter/ch8/ch8_720.m3u8
-
-#EXTINF:-1,DMAX HD
-
-http://stream.shabakaty.com:6001/enter/ch9/ch9_720.m3u8
-
-#EXTINF:-1,OUTDOOR
-
-http://stream.shabakaty.com:6001/enter/ch10/ch10_720.m3u8
-
-#EXTINF:-1,TRAVEL
-
-http://stream.shabakaty.com:6001/enter/ch11/ch11_720.m3u8
-
-#EXTINF:-1,HGTV
-
-http://stream.shabakaty.com:6001/enter/ch12/ch12_720.m3u8
-
-#EXTINF:-1,Food Network
-
-http://stream.shabakaty.com:6001/enter/ch13/ch13_720.m3u8
-
-#EXTINF:-1,FineLiving
-
-http://stream.shabakaty.com:6001/enter/ch14/ch14_720.m3u8
-
-#EXTINF:-1,FOX LIFE HD
-
-http://stream.shabakaty.com:6001/enter/ch15/ch15_720.m3u8
-
-#EXTINF:-1,NET GEO PEOPLE
-
-http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
-
-#EXTINF:-1,AMC HD
-
-http://stream.shabakaty.com:6001/enter/ch17/ch17_720.m3u8
-
-#EXTINF:-1,MBC Iraq
-
-http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
-
-#EXTINF:-1,Discovery HD
-
-http://stream.shabakaty.com:6001/enter/ch19/ch19_720.m3u8
-
-#EXTINF:-1,History
-
-http://stream.shabakaty.com:6001/enter/ch20/ch20_720.m3u8
-
-#EXTINF:-1,TLC
-
-http://stream.shabakaty.com:6001/enter/ch21/ch21_720.m3u8
-
-#EXTINF:-1,E HD
-
-http://stream.shabakaty.com:6001/enter/ch22/ch22_720.m3u8
-
-#EXTINF:-1,IDX HD
-
-http://stream.shabakaty.com:6001/enter/ch23/ch23_720.m3u8
-
-#EXTINF:-1,OSN EINGIMA
-
-http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
-
-#EXTINF:-1,MBC Variety +
-
-http://stream.shabakaty.com:6001/enter/ch25/ch25_720.m3u8
-
-#EXTINF:-1,Central Comedy
-
-http://stream.shabakaty.com:6001/enter/ch26/ch26_720.m3u8
-
-#EXTINF:-1,Discovery Family
-
-http://stream.shabakaty.com:6001/enter/ch27/ch27_720.m3u8
-
-#EXTINF:-1,Fashion Box
-
-http://stream.shabakaty.com:6001/enter/ch28/ch28_720.m3u8
-
-#EXTINF:-1,History2
-
-http://stream.shabakaty.com:6001/enter/ch29/ch29_720.m3u8
-
-#EXTINF:-1,BBC PlanetEarth
-
-http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
-
-#EXTINF:-1,braam
-
-http://stream.shabakaty.com:6001/kids/ch1/ch1_720.m3u8
-
-#EXTINF:-1,Baby TV
-
-http://stream.shabakaty.com:6001/kids/ch2/ch2_720.m3u8
-
-#EXTINF:-1,Boomerange HD
-
-http://stream.shabakaty.com:6001/kids/ch3/ch3_720.m3u8
-
-#EXTINF:-1,CN
-
-http://stream.shabakaty.com:6001/kids/ch4/ch4_720.m3u8
-
-#EXTINF:-1,DreamWorks TV
-
-http://stream.shabakaty.com:6001/kids/ch5/ch5_720.m3u8
-
-#EXTINF:-1,JIMJAM
-
-http://stream.shabakaty.com:6001/kids/ch6/ch6_720.m3u8
-
-#EXTINF:-1,BeJunior
-
-http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
-
-#EXTINF:-1,Jeem TV
-
-http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
-
-#EXTINF:-1,Discovery Kids
-
-http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
-
-#EXTINF:-1,Nickelodeon
-
-http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
-
-#EXTINF:-1,OSN KIDS 
-
-http://stream.shabakaty.com:6001/kids/ch11/ch11_720.m3u8
-
-#EXTINF:-1,Disney Channel
-
-http://stream.shabakaty.com:6001/kids/ch12/ch12_720.m3u8
-
-
-#EXTINF:-1,RIA BACKUP
-http://iptv.tvmalaysia.cc:80/100588/100588/9031
-#EXTINF:-1, ASTRO Ria HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6730
-#EXTINF:-1, ASTRO Prima HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6727
-#EXTINF:-1,ASTRO Warna HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6740
-#EXTINF:-1,Astro Citra HD (subtitle)
-http://iptv.tvmalaysia.cc:80/100588/100588/7267
-#EXTINF:-1, Astro Boo
-http://iptv.tvmalaysia.cc:80/100588/100588/8872
-#EXTINF:-1,ASTRO Oasis HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6725
-#EXTINF:-1,ASTRO Aura HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6713
-#EXTINF:-1,ASTRO Rania HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6729
-#EXTINF:-1, ASTRO Awani HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6714
-#EXTINF:-1,ASTRO Ceria HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6715
-#EXTINF:-1,ASTRO Sun TV HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6733
-#EXTINF:-1, ASTRO Star Vijay HD
-http://iptv.tvmalaysia.cc:80/100588/100588/6732
-#EXTINF:-1,Jaya Max
-http://iptv.tvmalaysia.cc:80/100588/100588/6802
-#EXTINF:-1, Chutti TV
-http://iptv.tvmalaysia.cc:80/100588/100588/6762
-#EXTINF:-1,Bernama News
-http://iptv.tvmalaysia.cc:80/100588/100588/6750
-#EXTINF:-1, Red By HBO HD
-http://iptv.tvmalaysia.cc:80/100588/100588/7071
-#EXTINF:-1, Fox Crime
-http://iptv.tvmalaysia.cc:80/100588/100588/7225
-#EXTINF:-1,Fox Life
-http://iptv.tvmalaysia.cc:80/100588/100588/7228
-#EXTINF:-1,Didik TV (NTV 7)
-http://iptv.tvmalaysia.cc:80/100588/100588/8922
-#EXTINF:-1, Tom & Jerry HD
-http://iptv.tvmalaysia.cc:80/100588/100588/8986
-#EXTINF:-1,Star Movies HD
-http://iptv.tvmalaysia.cc:80/100588/100588/8997
-#EXTINF:-1,MNX
-http://iptv.tvmalaysia.cc:80/100588/100588/8998
-#EXTINF:-1,Movies Now
-http://iptv.tvmalaysia.cc:80/100588/100588/8999
-#EXTINF:-1,TESTNEW
-http://iptv.tvmalaysia.cc:80/100588/100588/9001
-#EXTINF:-1,Crime & Investigation
-http://iptv.tvmalaysia.cc:80/100588/100588/9009
-#EXTINF:-1,Fox Family Movie
-http://iptv.tvmalaysia.cc:80/100588/100588/9027
-#EXTINF:-1,SCTV
-http://iptv.tvmalaysia.cc:80/100588/100588/8842
-#EXTINF:-1, Indosiar
-http://iptv.tvmalaysia.cc:80/100588/100588/8845
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png" group-title="TV DAERAH",TVTPI
+#http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
