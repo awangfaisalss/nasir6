@@ -1,4 +1,141 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NAT GEOGRAPHIC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
+#EXTINF:-1 tvg-id="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TVSARAWAK-logo-mobile.png" group-title="FJ | MYTV",TV SARAWAK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NATGEO WILD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",NATGEO PEOPLE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",SCM Legend
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",SCM 
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png" group-title="MNC, FX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NmQ3Y2NjYjYtMGJlZS0zODk2LWJiNDgtZWU3MGI4NDJjMTBl
+http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="MNC",CHANNEL V 
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="KNOWLEDGE",National Geographic
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+http://203.153.218.28:9981/stream/channelid/681683355
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",Nat Geo People
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8 
+https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134199
+http://203.153.218.28:9981/stream/channelid/1114683377
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://www.dropbox.com/s/4fjwi11yean5d4g/prambors.png?dl=1", PRAMBORS TV
+http://dituduhmaling.xyz/US33T4/pramborstv.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://www.dropbox.com/s/5tnox2maa0ry6gx/ikonser.png?dl=1", iKONSER
+https://www.dropbox.com/s/d5uz90fmzjjraqy/ikonser.m3u8?dl=1
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png" group title"HBO & FOX", FOX MOVIES 
+http://x1.broiptv.com/play/godzillazila7@gmail.com/65862049/Npg8pUET/norvegicus/fox_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://www.dropbox.com/s/djxb8zwv43efqm2/fox%20action%203.png?dl=1", FOX ACTION MOVIES
+http://x1.broiptv.com/play/godzillazila7@gmail.com/65862049/Npg8pUET/norvegicus/fox_action_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1"group title"HBO & FOX", FOX FAMILY MOVIES
+http://x1.broiptv.com/play/godzillazila7@gmail.com/65862049/Npg8pUET/norvegicus/fox_family_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 group-title="HBO & FOX"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group title"HBO & FOX", FOXCRIME
+http://x1.broiptv.com/play/godzillazila7@gmail.com/65862049/Npg8pUET/norvegicus/fox_crime_norvegicus/playlist.m3u8
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
+http://x1.broiptv.com/play/godzillazila7@gmail.com/65862049/Npg8pUET/norvegicus/fox_life_norvegicus/playlist.m3u8
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://www.dropbox.com/s/2nco42w6houz4an/fox%20tv.png?dl=1" group title"HBO & FOX", FOX 
+http://x1.broiptv.com/play/godzillazila7@gmail.com/65862049/Npg8pUET/norvegicus/fox_norvegicus/playlist.m3u8
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png" group title"HBO & FOX", FOX MOVIES 
+http://foctv.xyz:25510/live/toto/toto/58.m3u8
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/4.m3u8
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://www.dropbox.com/s/djxb8zwv43efqm2/fox%20action%203.png?dl=1", FOX ACTION MOVIES
+http://foctv.xyz:25510/live/toto/toto/59.m3u8
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/2.m3u8
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1"group title"HBO & FOX", FOX FAMILY MOVIES
+http://foctv.xyz:25510/live/toto/toto/60.m3u8
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/3.m3u8
+#EXTINF:-1 group-title="HBO & FOX"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group title"HBO & FOX", FOXCRIME
+http://foctv.xyz:25510/live/toto/toto/84.m3u8
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/5.m3u8
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/1.m3u8
+#EXTINF:-1 group-title="HBO & FOX" tvg-logo="https://www.dropbox.com/s/2nco42w6houz4an/fox%20tv.png?dl=1" group title"HBO & FOX", FOX 
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX 
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8 
+http://203.153.218.28:9981/stream/channelid/1910872088
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="MOVIES", FOX LIFE 
+http://aputra.xyz/cat12mves/foxlife.m3u8 
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Premium Movies 
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
+http://203.153.218.28:9981/stream/channelid/756717990
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1" group-title="MOVIES",Fox Family Movies 
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
+http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+http://203.153.218.28:9981/stream/channelid/1949182550
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES", FOX ACTION MOVIES 
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+http://203.153.218.28:9981/stream/channelid/1744735983
+http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime 
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+http://185.238.0.145:1313/c/ku/foxcrime.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="MOVIES",RED BY HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8 
+https://dl.dropbox.com/s/83u4976cz4j6nc1/red.m3u8?dl=0
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,INDOSIAR
 http://tv.vidiostream.com/i/indosiar_1@137582/index_360_av-p.m3u8?sd=10&rebase=on
